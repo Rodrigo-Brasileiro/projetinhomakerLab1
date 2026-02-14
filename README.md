@@ -67,4 +67,7 @@ Essa abordagem padronizada permite que o sistema seja replicado em diferentes po
 - Protoboard e resistores  
 
 ---
-
+## Integrantes
+- **NIKOLAS RODRIGUES MOURA DOS SANTOS** - RM551566
+- **RODRIGO BRASILEIRO** - RM98952
+- **THIAGO JARDIM DE OLIVEIRA** - RM551624
